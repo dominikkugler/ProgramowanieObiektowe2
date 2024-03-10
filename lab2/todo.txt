@@ -1,0 +1,4 @@
+- Tury miedzy graczami
+- ruch wilków 
+- zjadanie 
+- warunek zakonczenia gry 
